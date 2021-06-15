@@ -1,4 +1,4 @@
-# Data Analysis Udemy Course
+# Data Analysis - Rendering Jupyter notebook
 
 ## Known Issue
 
