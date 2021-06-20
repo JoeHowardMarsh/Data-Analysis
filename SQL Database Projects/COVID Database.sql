@@ -84,7 +84,7 @@ ORDER BY 1,2
 
 -- Population vaccinated
 -- Common Table Expression (CTE)
--- Total Vaccinations, Percentage of Population Vaccinated
+-- Total Vaccinations, Percentage of Population Vaccinated by country and continent
 
 with PopvsVac (continent, location, date, population, new_vaccinations, TotalVaccinatedToDate)
 as 
