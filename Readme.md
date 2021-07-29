@@ -3,7 +3,8 @@
 ## This repository contains a collection of analyses i've undertaken from many different topics.
 ### It includes work using Python (Jupyter Notebooks), MySQL and SSMS (SQL server management studio)
 
-1. Blockchain data
+These include:
+1. Building a basic blockchain (a start atleast)
 2. Predicting Life expectancy of different countries based on demographics.
 3. Analysing 4 cryptocurrency prices and their ROI (return on investment) since 2017
 4. Factor and cluster analysis of fish traits before predictive analysis on fish species
