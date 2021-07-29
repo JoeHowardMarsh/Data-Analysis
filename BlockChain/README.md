@@ -1,1 +1,3 @@
-Building a Basic Blockchain
+Following a tutorial - learning how blockchain works.
+
+Building a basic blockchain
