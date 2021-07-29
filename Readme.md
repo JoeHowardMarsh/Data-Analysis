@@ -1,7 +1,7 @@
 # Data Analysis
 
 ## This repository contains a collection of analyses i've undertaken from many different topics.
-### They include work using Python (Jupyter Notebooks), MySQL and SSMS (SQL server management studio)
+### It includes work using Python (Jupyter Notebooks), MySQL and SSMS (SQL server management studio)
 
 1. Blockchain data
 2. Predicting Life expectancy of different countries based on demographics.
