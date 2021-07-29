@@ -1,7 +1,12 @@
-# Data Analysis - Rendering Jupyter notebook
+# Data Analysis
 
-## Known Issue
+## This repository contains a collection of analyses i've undertaken from many different topics.
+### They include work using Python (Jupyter Notebooks), MySQL and SSMS (SQL server management studio)
 
-Github seems to have problems rendering Jupyter Notebooks, if you are getting this issue (Sorry, something went wrong. Reload?)
-Use this URL https://nbviewer.jupyter.org/ and inside the search bar copy and paste the URL to the specific Github file with the (something went wrong) issue.
-This should render the notebooks fine
+1. Blockchain data
+2. Predicting Life expectancy of different countries based on demographics.
+3. Analysing 4 cryptocurrency prices and their ROI (return on investment) since 2017
+4. Factor and cluster analysis of fish traits before predictive analysis on fish species
+5. Predicting salary rates based on work experience
+6. SQL databases containing a sports database, COVID data, London traffic in relation to COVID and London Housing data
+7. Data cleaning and notes on how to clean data
